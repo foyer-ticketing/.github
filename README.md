@@ -1,1 +1,1 @@
-# Cookiewolf Co-op github profile
+# Cookiewolf Co-op public github docs & templates
