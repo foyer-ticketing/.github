@@ -6,8 +6,7 @@ projects: ["cookiewolf/projects/2"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for letting us know you noticed something unexpected
+      value: Thanks for letting us know you noticed something unexpected
   - type: input
     id: contact
     attributes:
@@ -22,7 +21,6 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: And show is what you see with a screenshot
-      value: ""
     validations:
       required: true
   - type: dropdown
