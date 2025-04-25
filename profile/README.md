@@ -1,10 +1,7 @@
-## Cookiewolf Co-op
-
-Website
-https://cookiewolf.coop
+## Foyer
 
 Handbook
-https://cookiewolf.github.io/handbook
+https://foyer-ticketing.github.io/handbook
 
 Contact
-hello@cookiewolf.coop
+foyer@cookiewolf.coop
