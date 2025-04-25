@@ -1,1 +1,1 @@
-# Cookiewolf Co-op public github docs & templates
+# Foyer public github docs & templates
